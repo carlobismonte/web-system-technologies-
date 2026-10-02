@@ -1,0 +1,164 @@
+CRITICAL - 2026-09-14 12:30:47 --> ErrorException: Cannot declare class App\Controllers\Home, because the name is already in use
+[Method: GET, Route: greetworld]
+in APPPATH\Controllers\world.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 12:35:58 --> ErrorException: Cannot declare class App\Controllers\Home, because the name is already in use
+[Method: GET, Route: world]
+in APPPATH\Controllers\world.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 12:37:00 --> ErrorException: Cannot declare class App\Controllers\Home, because the name is already in use
+[Method: GET, Route: world]
+in APPPATH\Controllers\world.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 12:37:01 --> ErrorException: Cannot declare class App\Controllers\Home, because the name is already in use
+[Method: GET, Route: world]
+in APPPATH\Controllers\world.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 12:37:01 --> ErrorException: Cannot declare class App\Controllers\Home, because the name is already in use
+[Method: GET, Route: world]
+in APPPATH\Controllers\world.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 12:37:08 --> ErrorException: Cannot declare class App\Controllers\Home, because the name is already in use
+[Method: GET, Route: world]
+in APPPATH\Controllers\world.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 12:38:05 --> ErrorException: Cannot declare class App\Controllers\Home, because the name is already in use
+[Method: GET, Route: world]
+in APPPATH\Controllers\world.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 12:38:06 --> ErrorException: Cannot declare class App\Controllers\Home, because the name is already in use
+[Method: GET, Route: world]
+in APPPATH\Controllers\world.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 12:38:06 --> ErrorException: Cannot declare class App\Controllers\Home, because the name is already in use
+[Method: GET, Route: world]
+in APPPATH\Controllers\world.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 12:38:06 --> ErrorException: Cannot declare class App\Controllers\Home, because the name is already in use
+[Method: GET, Route: world]
+in APPPATH\Controllers\world.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 12:38:11 --> ErrorException: Cannot declare class App\Controllers\Home, because the name is already in use
+[Method: GET, Route: world]
+in APPPATH\Controllers\world.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 12:39:20 --> ErrorException: Cannot declare class App\Controllers\Home, because the name is already in use
+[Method: GET, Route: world]
+in APPPATH\Controllers\world.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 12:39:20 --> ErrorException: Cannot declare class App\Controllers\Home, because the name is already in use
+[Method: GET, Route: world]
+in APPPATH\Controllers\world.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 12:39:20 --> ErrorException: Cannot declare class App\Controllers\Home, because the name is already in use
+[Method: GET, Route: world]
+in APPPATH\Controllers\world.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 12:39:20 --> ErrorException: Cannot declare class App\Controllers\Home, because the name is already in use
+[Method: GET, Route: world]
+in APPPATH\Controllers\world.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 12:39:20 --> ErrorException: Cannot declare class App\Controllers\Home, because the name is already in use
+[Method: GET, Route: world]
+in APPPATH\Controllers\world.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 12:40:12 --> ErrorException: Cannot declare class App\Controllers\Home, because the name is already in use
+[Method: GET, Route: world]
+in APPPATH\Controllers\world.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 12:40:13 --> ErrorException: Cannot declare class App\Controllers\Home, because the name is already in use
+[Method: GET, Route: world]
+in APPPATH\Controllers\world.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 12:40:13 --> ErrorException: Cannot declare class App\Controllers\Home, because the name is already in use
+[Method: GET, Route: world]
+in APPPATH\Controllers\world.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 12:40:13 --> ErrorException: Cannot declare class App\Controllers\Home, because the name is already in use
+[Method: GET, Route: world]
+in APPPATH\Controllers\world.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 12:40:58 --> ErrorException: Cannot declare class App\Controllers\Home, because the name is already in use
+[Method: GET, Route: world]
+in APPPATH\Controllers\world.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 12:40:59 --> ErrorException: Cannot declare class App\Controllers\Home, because the name is already in use
+[Method: GET, Route: world]
+in APPPATH\Controllers\world.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 12:40:59 --> ErrorException: Cannot declare class App\Controllers\Home, because the name is already in use
+[Method: GET, Route: world]
+in APPPATH\Controllers\world.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 12:40:59 --> ErrorException: Cannot declare class App\Controllers\Home, because the name is already in use
+[Method: GET, Route: world]
+in APPPATH\Controllers\world.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 12:40:59 --> ErrorException: Cannot declare class App\Controllers\Home, because the name is already in use
+[Method: GET, Route: world]
+in APPPATH\Controllers\world.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 12:42:00 --> ErrorException: Cannot declare class App\Controllers\Home, because the name is already in use
+[Method: GET, Route: world]
+in APPPATH\Controllers\world.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 12:44:42 --> ErrorException: Cannot declare class App\Controllers\Home, because the name is already in use
+[Method: GET, Route: world]
+in APPPATH\Controllers\world.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 12:45:16 --> ErrorException: Cannot declare class App\Controllers\Home, because the name is already in use
+[Method: GET, Route: world]
+in APPPATH\Controllers\world.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 12:49:52 --> ErrorException: Cannot declare class App\Controllers\Home, because the name is already in use
+[Method: GET, Route: world]
+in APPPATH\Controllers\world.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 12:51:47 --> ErrorException: Cannot declare class App\Controllers\Home, because the name is already in use
+[Method: GET, Route: world]
+in APPPATH\Controllers\world.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 12:51:47 --> ErrorException: Cannot declare class App\Controllers\Home, because the name is already in use
+[Method: GET, Route: world]
+in APPPATH\Controllers\world.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 12:51:47 --> ErrorException: Cannot declare class App\Controllers\Home, because the name is already in use
+[Method: GET, Route: world]
+in APPPATH\Controllers\world.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 12:51:47 --> ErrorException: Cannot declare class App\Controllers\Home, because the name is already in use
+[Method: GET, Route: world]
+in APPPATH\Controllers\world.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 12:51:48 --> ErrorException: Cannot declare class App\Controllers\Home, because the name is already in use
+[Method: GET, Route: world]
+in APPPATH\Controllers\world.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 12:51:48 --> ErrorException: Cannot declare class App\Controllers\Home, because the name is already in use
+[Method: GET, Route: world]
+in APPPATH\Controllers\world.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 12:53:21 --> ErrorException: Cannot declare class App\Controllers\Home, because the name is already in use
+[Method: GET, Route: world]
+in APPPATH\Controllers\world.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 12:54:17 --> ErrorException: Cannot declare class App\Controllers\Home, because the name is already in use
+[Method: CLI, Route: routes]
+in APPPATH\Controllers\world.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 13:04:07 --> ErrorException: Cannot declare class App\Controllers\Home, because the name is already in use
+[Method: GET, Route: world]
+in APPPATH\Controllers\world.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 13:08:48 --> ErrorException: Cannot declare class App\Controllers\world, because the name is already in use
+[Method: GET, Route: world1]
+in APPPATH\Controllers\world2.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 13:09:04 --> ErrorException: Cannot declare class App\Controllers\world, because the name is already in use
+[Method: GET, Route: world1]
+in APPPATH\Controllers\world2.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-14 13:09:04 --> ErrorException: Cannot declare class App\Controllers\world, because the name is already in use
+[Method: GET, Route: world1]
+in APPPATH\Controllers\world2.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()

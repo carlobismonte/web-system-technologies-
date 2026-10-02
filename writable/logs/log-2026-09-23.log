@@ -1,0 +1,133 @@
+CRITICAL - 2026-09-23 10:22:00 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "customer/index.php"
+[Method: GET, Route: customers]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('customer/index.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('customer/index', [], true)
+ 3 APPPATH\Controllers\Customers.php(37): view('customer/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Customers->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Customers))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\User\\OneDrive\\Desktop\\ci4_tc33\\myproject\\public\\index.php')
+CRITICAL - 2026-09-23 10:29:33 --> ErrorException: Undefined variable $customers
+[Method: GET, Route: customer]
+in APPPATH\Views\customer\index.php on line 24.
+ 1 APPPATH\Views\customer\index.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $customers', 'C:\\Users\\User\\OneDrive\\Desktop\\ci4_tc33\\myproject\\app\\Views\\customer\\index.php', 24)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\Users\\User\\OneDrive\\Desktop\\ci4_tc33\\myproject\\app\\Views\\customer\\index.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('customer/index', [], true)
+ 5 APPPATH\Controllers\Customer.php(37): view('customer/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Customer->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Customer))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\User\\OneDrive\\Desktop\\ci4_tc33\\myproject\\public\\index.php')
+CRITICAL - 2026-09-23 10:29:33 --> ErrorException: Undefined variable $customers
+[Method: GET, Route: customer]
+in APPPATH\Views\customer\index.php on line 24.
+ 1 APPPATH\Views\customer\index.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $customers', 'C:\\Users\\User\\OneDrive\\Desktop\\ci4_tc33\\myproject\\app\\Views\\customer\\index.php', 24)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\Users\\User\\OneDrive\\Desktop\\ci4_tc33\\myproject\\app\\Views\\customer\\index.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('customer/index', [], true)
+ 5 APPPATH\Controllers\Customer.php(37): view('customer/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Customer->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Customer))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\User\\OneDrive\\Desktop\\ci4_tc33\\myproject\\public\\index.php')
+CRITICAL - 2026-09-23 10:29:34 --> ErrorException: Undefined variable $customers
+[Method: GET, Route: customer]
+in APPPATH\Views\customer\index.php on line 24.
+ 1 APPPATH\Views\customer\index.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $customers', 'C:\\Users\\User\\OneDrive\\Desktop\\ci4_tc33\\myproject\\app\\Views\\customer\\index.php', 24)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\Users\\User\\OneDrive\\Desktop\\ci4_tc33\\myproject\\app\\Views\\customer\\index.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('customer/index', [], true)
+ 5 APPPATH\Controllers\Customer.php(37): view('customer/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Customer->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Customer))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\User\\OneDrive\\Desktop\\ci4_tc33\\myproject\\public\\index.php')
+CRITICAL - 2026-09-23 10:31:24 --> ErrorException: Undefined variable $customers
+[Method: GET, Route: customers]
+in APPPATH\Views\customers\index.php on line 24.
+ 1 APPPATH\Views\customers\index.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $customers', 'C:\\Users\\User\\OneDrive\\Desktop\\ci4_tc33\\myproject\\app\\Views\\customers\\index.php', 24)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\Users\\User\\OneDrive\\Desktop\\ci4_tc33\\myproject\\app\\Views\\customers\\index.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('customers/index', [], true)
+ 5 APPPATH\Controllers\Customers.php(37): view('customers/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Customers->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Customers))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\User\\OneDrive\\Desktop\\ci4_tc33\\myproject\\public\\index.php')
+CRITICAL - 2026-09-23 10:31:24 --> ErrorException: Undefined variable $customers
+[Method: GET, Route: customers]
+in APPPATH\Views\customers\index.php on line 24.
+ 1 APPPATH\Views\customers\index.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $customers', 'C:\\Users\\User\\OneDrive\\Desktop\\ci4_tc33\\myproject\\app\\Views\\customers\\index.php', 24)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\Users\\User\\OneDrive\\Desktop\\ci4_tc33\\myproject\\app\\Views\\customers\\index.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('customers/index', [], true)
+ 5 APPPATH\Controllers\Customers.php(37): view('customers/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Customers->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Customers))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\User\\OneDrive\\Desktop\\ci4_tc33\\myproject\\public\\index.php')
+CRITICAL - 2026-09-23 10:31:24 --> ErrorException: Undefined variable $customers
+[Method: GET, Route: customers]
+in APPPATH\Views\customers\index.php on line 24.
+ 1 APPPATH\Views\customers\index.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $customers', 'C:\\Users\\User\\OneDrive\\Desktop\\ci4_tc33\\myproject\\app\\Views\\customers\\index.php', 24)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\Users\\User\\OneDrive\\Desktop\\ci4_tc33\\myproject\\app\\Views\\customers\\index.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('customers/index', [], true)
+ 5 APPPATH\Controllers\Customers.php(37): view('customers/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Customers->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Customers))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\User\\OneDrive\\Desktop\\ci4_tc33\\myproject\\public\\index.php')
+CRITICAL - 2026-09-23 10:31:25 --> ErrorException: Undefined variable $customers
+[Method: GET, Route: customers]
+in APPPATH\Views\customers\index.php on line 24.
+ 1 APPPATH\Views\customers\index.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $customers', 'C:\\Users\\User\\OneDrive\\Desktop\\ci4_tc33\\myproject\\app\\Views\\customers\\index.php', 24)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\Users\\User\\OneDrive\\Desktop\\ci4_tc33\\myproject\\app\\Views\\customers\\index.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('customers/index', [], true)
+ 5 APPPATH\Controllers\Customers.php(37): view('customers/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Customers->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Customers))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\User\\OneDrive\\Desktop\\ci4_tc33\\myproject\\public\\index.php')
+CRITICAL - 2026-09-23 10:31:25 --> ErrorException: Undefined variable $customers
+[Method: GET, Route: customers]
+in APPPATH\Views\customers\index.php on line 24.
+ 1 APPPATH\Views\customers\index.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $customers', 'C:\\Users\\User\\OneDrive\\Desktop\\ci4_tc33\\myproject\\app\\Views\\customers\\index.php', 24)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\Users\\User\\OneDrive\\Desktop\\ci4_tc33\\myproject\\app\\Views\\customers\\index.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('customers/index', [], true)
+ 5 APPPATH\Controllers\Customers.php(37): view('customers/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Customers->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Customers))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\User\\OneDrive\\Desktop\\ci4_tc33\\myproject\\public\\index.php')
